@@ -1,0 +1,9 @@
+from random import choice
+
+#create a db of albums, maybe channels refelctive of mood.  For example hign BPM, EDM or jazz, metal, etc.
+#Artist, Album, Mood
+music_options = [[ACDC, Let There Be Rock, I Wanna Rock][The Cult, Sonic Temple, I Wanna Rock]]
+
+#input mood-should i give options?
+
+$llop through to find a match to mood
